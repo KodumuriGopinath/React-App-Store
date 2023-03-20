@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.display-text {
+}
+
+.button {
+  padding: 20px;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  font-size: 23px;
+  border-color: #fff1eb;
+  color: grey;
+  background-color: transparent;
+  outline: none;
+  cursor: pointer;
+}
+.active-class {
+  border-color: #2563eb;
+  color: #2563eb;
+}
